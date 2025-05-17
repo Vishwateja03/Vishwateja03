@@ -1,7 +1,3 @@
-Here's an improved, visually appealing **README.md** for your GitHub profile, combining both sets of information while enhancing readability and formatting:
-
----
-
 # Hi there, I'm Vishwa! 👋  
 <a href="https://www.linkedin.com/in/sai-vishwa-teja-03vt05">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -76,8 +72,6 @@ I'm a **final-year Computer Science & Engineering (Data Science) student** from 
 ---
 
 ### 📊 **GitHub Stats**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush098-hub)](https://github.com/ayush098-hub/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwateja03)](https://github.com/Vishwateja03/github-readme-stats)
 
 ---
-
-This README will give your GitHub profile a professional and visually engaging look! 🚀 You can copy and paste the code into your `README.md`. Let me know if you'd like any modifications. 😃
