@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on <a href="https://3xabyt3.medium.com/list/100daysofhacking-challenge-3db6061da4b1">#100daysofhacking</a> challenge;
 - 🌱 I’m currently learning about Pentesting and do coding in python;
 - 💬 Ask me about anything, I'm happy to help;
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/ayush-kumar-295650177"  target="_blank" >@ayush</a>;
+- 📫 How to reach me: <a href="www.linkedin.com/in/sai-vishwa-teja-03vt05"  target="_blank" >@saivishwateja</a>;
 - ✍️ I regulary write articles on medium, you can visit <a href="3xabyt3.medium.com" target="_blank" >medium</a>;
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
