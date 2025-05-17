@@ -72,6 +72,5 @@ I'm a **final-year Computer Science & Engineering (Data Science) student** from 
 ---
 
 ### 📊 **GitHub Stats**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwateja03)](https://github.com/Vishwateja03/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwateja03&show_icons=true&theme=tokyonight)](https://github.com/Vishwateja03/github-readme-stats)
 ---
