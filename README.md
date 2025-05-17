@@ -3,49 +3,49 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I am a dedicated cybersecurity professional with a strong passion for protecting systems, networks, and data against evolving cyber threats. With expertise in information security principles, ethical hacking, network defense, and security automation, I specialize in cloud security and DevSecOps to enhance security resilience across modern infrastructures.
-Committed to continuous learning in this dynamic field, I focus on secure cloud architectures, threat detection, vulnerability management, and automation-driven security solutions. By integrating security into the development lifecycle, I strive to build robust, scalable, and secure environments that safeguard critical assets.
+I'm a **Cybersecurity, Cloud Security, and DevSecOps enthusiast** passionate about **protecting systems, networks, and data** from evolving threats. With expertise in **threat detection, network defense, security automation, and ethical hacking**, I work towards **developing scalable, resilient security solutions** for modern infrastructures.
+
+### 👾 **Talking about personal stuff:**
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47udtdqaagnecg7mfu3mtvtvc90zvz2sjugyuoezd0&rid=giphy.gif&ct=g" width="400" height="300"/>
+
+- 🔭 I’m currently working on **#100DaysOfHacking** and **SOC automation projects**  
+- 🌱 Learning **Pentesting**, **Cloud Security**, and **Python for security automation**  
+- 💬 Ask me about **cybersecurity**, **cloud security**, and **DevSecOps**—I'd love to share insights!  
+- 📫 Connect with me on **LinkedIn**: <a href="https://www.linkedin.com/in/sai-vishwa-teja-03vt05" target="_blank">@saivishwateja</a>  
+- ✍️ I regularly write security-related blogs—check out my **[Medium articles](https://3xabyt3.medium.com)**  
+
+## 🛡 **Concepts & Skills**
+
+### 🖥 **Programming & Scripting**
+- **Python** - Security automation, scripting, data analysis  
+- **Bash** - System administration & automation  
+- **SQL** - Database querying & security  
+- **PowerShell** - Windows automation & security auditing  
+
+### 🔍 **SIEM Tools**
+- **Splunk** - Log analysis, security event correlation  
+- **Microsoft Sentinel** - Cloud-native security monitoring  
+- **Elastic Stack (ELK)** - Threat detection, log analytics  
+
+### 🌐 **Network Security & Analysis**
+- **Wireshark** - Packet analysis & forensic investigation  
+- **Zeek** - Network traffic monitoring & threat detection  
+- **Suricata** - Intrusion detection/prevention system  
+
+### 🔒 **Cloud Security & DevSecOps**
+- **Terraform** - Infrastructure as code (IaC)  
+- **AWS Security Services** - Identity & Access Management (IAM), GuardDuty, WAF  
+- **Kubernetes Security** - Pod security policies & vulnerability management  
+
+### 🛠 **Cybersecurity Domains**
+- **Threat Hunting & Incident Response** - Analyzing security incidents & mitigating threats  
+- **Penetration Testing** - Red teaming & ethical hacking  
+- **Malware Analysis** - Reverse engineering & behavioral analysis  
+- **Security Automation** - Implementing SOAR solutions  
 
 ---
 
-## 🔥 Skills & Projects
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| **SIEM Implementation and Log Analysis**      | [Detection Lab](https://google.com) |
-| **Network Traffic Monitoring & Attack Detection** | [Detection Lab](https://google.com) |
-| **Security Automation with Shuffle SOAR**     | SOC Automation Lab |
-| **Incident Response Planning & Execution**    | SOC Automation Lab |
-| **Case Management with TheHive**              | SOC Automation Lab |
-| **Scripting & Automation for Threat Mitigation** | SOC Automation Lab |
-
----
-
-## 🛠 Tools & Technologies
-
-### 🔍 **Network Security**
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### 🖥 **Endpoint Security**
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### 📊 **SIEM & Monitoring**
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
----
-
-## 📜 Certifications
+## 📜 **Certifications**
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -56,15 +56,7 @@ Committed to continuous learning in this dynamic field, I focus on secure cloud 
 
 ---
 
-## 🚀 Projects
-
-- **Detection Lab** - SIEM and attack detection techniques
-- **SOC Automation Project** - Enhancing security operations efficiency
-
----
-
-## 📝 Medium Blogs & Articles
-
+## 🚀 **Research & Writings**
 <li><a href="https://infosecwriteups.com/information-gathering-in-penetration-testing-770e01bab326" target="_blank">Information Gathering in Penetration Testing</a></li>
 <li><a href="https://infosecwriteups.com/owasp-top-10-tryhackme-all-in-one-writeup-68ae5ab37d57" target="_blank">OWASP Top 10 TryHackMe</a></li>
 <li><a href="https://infosecwriteups.com/tcp-ip-networking-model-69686f893569" target="_blank">TCP/IP Networking Model</a></li>
@@ -74,4 +66,5 @@ Committed to continuous learning in this dynamic field, I focus on secure cloud 
 
 ### 📊 **GitHub Stats**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwateja03&show_icons=true&theme=tokyonight)](https://github.com/Vishwateja03/github-readme-stats)
+
 ---
