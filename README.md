@@ -3,7 +3,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I'm a **final-year Computer Science & Engineering (Data Science) student** from India, passionate about **Cybersecurity, Cloud Security, DevSecOps, and Automation**. My goal is to transition into cybersecurity and join a **Security Operations Center (SOC) as a Tier 1 Analyst**.
+I am a dedicated cybersecurity professional with a strong passion for protecting systems, networks, and data against evolving cyber threats. With expertise in information security principles, ethical hacking, network defense, and security automation, I specialize in cloud security and DevSecOps to enhance security resilience across modern infrastructures.
+Committed to continuous learning in this dynamic field, I focus on secure cloud architectures, threat detection, vulnerability management, and automation-driven security solutions. By integrating security into the development lifecycle, I strive to build robust, scalable, and secure environments that safeguard critical assets.
 
 ---
 
