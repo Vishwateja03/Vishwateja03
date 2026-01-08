@@ -1,58 +1,18 @@
-# Hi there, I'm Vishwa teja! 👋  
-<a href="https://www.linkedin.com/in/sai-vishwa-teja-03vt05">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-I'm a **Data Science and Cyber Security enthusiast** passionate about **protecting systems, networks, and data** from evolving threats. With expertise in **threat detection, network defense, security automation, and ethical hacking**, I work towards **developing scalable, resilient security solutions** for modern infrastructures.
-
-### 👾 **Talking about personal stuff:**
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47udtdqaagnecg7mfu3mtvtvc90zvz2sjugyuoezd0&rid=giphy.gif&ct=g" width="400" height="300"/>
-
-- 🔭 I’m currently working on **Understanding Networks, OS's and Security related topics** and **Building projects based on what i understand.!**  
-- 🌱 Learning **Threat detection & Logs analysis**, **Cloud Security**,**DevSecOps** and **Bash & Python for security automation**  
-- 💬 Ask me about **cybersecurity**, **cloud security**, and **DevSecOps**—I'd love to share insights!  
-- 📫 Connect with me on **LinkedIn**: <a href="https://www.linkedin.com/in/sai-vishwa-teja-03vt05" target="_blank">@saivishwateja</a>  
-- ✍️ I regularly write security-related blogs—check out my **[Medium articles](https://3xabyt3.medium.com)**
-
-## 🛡 **Concepts & Skills**
-
-### 🖥 **Programming & Scripting**
-- **Python** - Security automation, scripting, data analysis  
-- **Bash** - System administration & automation  
-- **SQL** - Database querying & security  
-- **Linux** - System hardening, administration, security auditing
-- **Windows**- Security configurations, event log analysis, threat detection
+# 💫 About Me:
+Hi, I'm Vishwateja👋<br>Interested in the things that make me interesting<br>💻 I enjoy building and breaking systems to understand how they work<br>🔍 Currently exploring Cybersecurity, Data Science, and Machine Learning<br>🌱 Currently learning: Pen testing, network security, and data workflows<br>💬 Ask me about Cybersecurity, AI/ML, or anything tech-related
 
 
-### 🔍 **SIEM Tools**
-- **Splunk** - Log analysis, security event correlation  
-- **Microsoft Sentinel** - Cloud-native security monitoring    
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sai-vishwa-teja-03vt05) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Pure_Influence9361) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vishwateja035) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwatej53@gmail.com) 
 
-### 🌐 **Network Security & Analysis**
-- **Wireshark** - Packet analysis & forensic investigation  
- 
-### 🔒 **Cloud Security & DevSecOps**
-- **Terraform** - Infrastructure as code (IaC)  
-- **AWS Security Services** - Identity & Access Management (IAM), GuardDuty, WAF
-- **Azure Security Services** - Defender for Cloud, Sentinel, Identity Protection  
-- **Kubernetes Security** - Pod security policies & vulnerability management  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vishwateja03&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vishwateja03&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwateja03&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🛠 **Cybersecurity Domains**
-- **Threat Hunting & Incident Response** - Analyzing security incidents & mitigating threats  
-- **Penetration Testing** - Red teaming & ethical hacking  
-- **Malware Analysis** - Reverse engineering & behavioral analysis  
-- **Security Automation** - Implementing SOAR solutions  
+---
+[![](https://visitcount.itsvg.in/api?id=Vishwateja03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📜 **Certifications**
-<div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-
-## 🚀 **Research & Writings**
-<li><a href="https://ijcnis.org/index.php/ijcnis/article/view/8181" target="_blank">ML-Based Behavioural Analysis for security Threat Detection</a></li>
-<li><a href="https://www.linkedin.com/posts/sai-vishwa-teja-03vt05_shell-scripting-for-beginners-activity-7334900598535847936-LWxF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkEOyQBipUIwOyLfwrhVyBE9Up0D37zSPo" target="_blank">Bash Scripting</a></li>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
